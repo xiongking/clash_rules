@@ -4,4 +4,5 @@ payload:
   - DOMAIN-SUFFIX,4d4y.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,clearlyreader.com
-
+  - DOMAIN-SUFFIX,canonical.com
+  - DOMAIN-SUFFIX,firefox.com
