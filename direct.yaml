@@ -6,4 +6,4 @@ payload:
   - DOMAIN-SUFFIX,clearlyreader.com
   - DOMAIN-SUFFIX,canonical.com
   - DOMAIN-SUFFIX,firefox.com
-  - DOMAIN-SUFFIX,mozilla.com:443
+  - DOMAIN-SUFFIX,mozilla.com
