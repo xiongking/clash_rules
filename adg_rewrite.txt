@@ -1,0 +1,1 @@
+/^(qb|emby|mp).xiongnas.top/$dnsrewrite=10.0.0.189
