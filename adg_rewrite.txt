@@ -1,1 +1,1 @@
-/^(lucky|qb|emby|mp|tmm|nextcloud|substore|pass|pve|ikuai|hass|git|firefox|cookiecloud|adguard|pdf|plex|doc|tplink).xiongnas.top/$dnsrewrite=10.0.0.189
+lucky.xiongnas.top/$dnsrewrite=10.0.0.189
