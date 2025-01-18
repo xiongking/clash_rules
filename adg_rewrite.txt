@@ -1,1 +1,1 @@
-lucky.xiongnas.top/$dnsrewrite=10.0.0.189
+||lucky.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
