@@ -10,4 +10,6 @@ payload:
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN-SUFFIX,plex.com
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,115.com
   
