@@ -12,4 +12,8 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,115.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,tencent.com
+  - DOMAIN-SUFFIX,sina.com
+  - DOMAIN-SUFFIX,weibo.com
   
