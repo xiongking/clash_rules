@@ -1,3 +1,4 @@
 payload:
   - pki.goog
   - docker.io
+  - registry.npmjs.org
