@@ -2,6 +2,3 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,registry.npmjs.org
-
-
-
