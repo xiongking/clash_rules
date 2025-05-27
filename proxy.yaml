@@ -2,6 +2,4 @@ payload:
   - DOMAIN-SUFFIX,pki.goog
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-SUFFIX,redd.it
-  - DOMAIN-SUFFIX,redditmedia.com
-  - DOMAIN-SUFFIX,redditstatic.com
+
