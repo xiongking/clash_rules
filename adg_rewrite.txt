@@ -13,6 +13,8 @@
 ||logs.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||lucky.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||mp.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||myip.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||n8n.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||nextcloud.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||newapi.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||openwrt.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
