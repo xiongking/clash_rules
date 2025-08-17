@@ -17,5 +17,5 @@ payload:
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,mywhoosh.com
+#  - DOMAIN-SUFFIX,mywhoosh.com
   
