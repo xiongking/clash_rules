@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,mywhoosh.com
+  - DOMAIN-SUFFIX,firebasedatabase.app
