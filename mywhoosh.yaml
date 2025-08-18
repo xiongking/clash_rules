@@ -1,4 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,mywhoosh.com
   - DOMAIN-SUFFIX,firebasedatabase.app
-  - DOMAIN-SUFFIX,app-measurement.com
+  # - DOMAIN-SUFFIX,app-measurement.com
