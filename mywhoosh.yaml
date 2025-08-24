@@ -3,5 +3,3 @@ payload:
   - DOMAIN-SUFFIX,my-whoosh.com
   - DOMAIN-SUFFIX,firebasedatabase.app
   - DOMAIN-SUFFIX,app-measurement.com
-  - IP-CIDR,54.0.0.0/16
-  - IP-CIDR,185.49.35.57/32
