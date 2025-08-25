@@ -1,4 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,mywhoosh.com
   - DOMAIN-SUFFIX,my-whoosh.com
-  # - IP-CIDR,54.77.202.40/32,no-resolve
+  - IP-CIDR,54.77.202.40/32
