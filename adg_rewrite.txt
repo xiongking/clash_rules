@@ -31,5 +31,6 @@
 ||tmm.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||tools.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||tplink.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
-
-
+||us-or-rly101.zwift.com^$dnsrewrite=NOERROR;A;10.0.0.128
+||secure.zwift.com^$dnsrewrite=NOERROR;A;10.0.0.128
+||cdn.zwift.com^$dnsrewrite=NOERROR;A;10.0.0.128
