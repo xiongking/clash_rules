@@ -20,5 +20,6 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,cn2gias.uk
   - DOMAIN-SUFFIX,wqx.im
+  - DOMAIN-KEYWORD,emby
 #  - DOMAIN-SUFFIX,mywhoosh.com
   
