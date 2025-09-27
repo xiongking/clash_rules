@@ -1,4 +1,5 @@
 payload:
+#### ByBit
   - DOMAIN-SUFFIX,bybit-aws.com
   - DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
   - DOMAIN-SUFFIX,bybit.com
