@@ -2,6 +2,7 @@
 ||ai.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||cookiecloud.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||deepresearch.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||m.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||doc.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||draw.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||firefox.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
