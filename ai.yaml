@@ -14,7 +14,6 @@ payload:
   - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,apps.mzstatic.com
 
-DOMAIN,apps.mzstatic.com
 # > Ai general rules
   - DOMAIN,api.statsig.com
   - DOMAIN,browser-intake-datadoghq.com
@@ -121,3 +120,5 @@ DOMAIN,apps.mzstatic.com
 # > xAI/Grok
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
+
+  - DOMAIN-SUFFIX,typeless.com
