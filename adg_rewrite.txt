@@ -23,6 +23,7 @@
 ||pdf.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||plex.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||portainer.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||newapi.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||pve.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||qb.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||search.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
