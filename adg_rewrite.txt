@@ -8,6 +8,7 @@
 ||firefox.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||emby.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||git.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||grok2api.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||hass.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||ikuai.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||libretv.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
@@ -24,6 +25,8 @@
 ||plex.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||portainer.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||newapi.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||sub2api.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||tavily.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||pve.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||qb.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||search.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
