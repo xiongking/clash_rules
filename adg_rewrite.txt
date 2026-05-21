@@ -10,6 +10,7 @@
 ||git.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||grok2api.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||hass.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
+||hermes.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||ikuai.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||libretv.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
 ||logs.xiongnas.top^$dnsrewrite=NOERROR;A;10.0.0.189
