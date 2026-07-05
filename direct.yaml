@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,www.themoviedb.org
   - DOMAIN-SUFFIX,sub1.sntp.me
   - DOMAIN-SUFFIX,s3.array2026.com
-  - DOMAIN-SUFFIX,server3.cn2gias.uk
+  - DOMAIN-SUFFIX,cn2gias.uk
 
 #  - DOMAIN-SUFFIX,mywhoosh.com
   
