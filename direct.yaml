@@ -28,7 +28,7 @@ payload:
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,download.pytorch.org
   - DOMAIN-SUFFIX,www.themoviedb.org
-
+  - DOMAIN-SUFFIX,https://sub1.sntp.me
 
 #  - DOMAIN-SUFFIX,mywhoosh.com
   
