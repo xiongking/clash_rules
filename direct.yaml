@@ -18,7 +18,7 @@ payload:
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN-SUFFIX,cn2gias.uk
+
   - DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
   - DOMAIN-SUFFIX,wqx.im
   - DOMAIN-KEYWORD,emby
@@ -28,6 +28,8 @@ payload:
   - DOMAIN-SUFFIX,lmstudio.ai
   - DOMAIN-SUFFIX,download.pytorch.org
   - DOMAIN-SUFFIX,www.themoviedb.org
+
+##SNTP  
   - DOMAIN-SUFFIX,sub1.sntp.me
   - DOMAIN-SUFFIX,s3.array2026.com
   - DOMAIN-SUFFIX,cn2gias.uk
