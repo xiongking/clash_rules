@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,ghcr.io
