@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,pypi.org
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,hdhive.com
