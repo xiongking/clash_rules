@@ -45,7 +45,3 @@
 ||secure.zwift.com^$dnsrewrite=NOERROR;A;10.0.0.128
 ||cdn.zwift.com^$dnsrewrite=NOERROR;A;10.0.0.128
 
-||static.parallels.com^$dnsrewrite=NOERROR;A;127.0.0.1
-||account.parallels.com^$dnsrewrite=NOERROR;A;127.0.0.1
-||desktop.parallels.cn^$dnsrewrite=NOERROR;A;127.0.0.1
-||download.parallels.cn^$dnsrewrite=NOERROR;A;127.0.0.1
