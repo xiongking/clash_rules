@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,hdhive.com
+  - DOMAIN-SUFFIX,re0.me
